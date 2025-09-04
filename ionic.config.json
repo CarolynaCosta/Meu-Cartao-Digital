@@ -1,0 +1,7 @@
+{
+  "name": "AppCartao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
